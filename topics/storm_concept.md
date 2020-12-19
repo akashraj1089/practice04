@@ -1,14 +1,7 @@
-{% for item in site.data.countries %}
-The country of {{ item.name }} was created in {{ item.date }}. Its flag is {{ item.flag }}.
-{% endfor %}
+---
+layout: template
+---
 
-A storm is any disturbed state of an environment. It causes significant disruptions to normal conditions by means of strong wind, tornadoes, hail, thunderstorm, snowstorm, rainstorm, heavy freezing rain, dust storm, blizzard, or sandstorm.
-
-Repeat the variable {{ page.title }}
-
-Storms harm lives and property. They cause dust devils and whirlwinds.
-
-The English word _storm_ comes from Proto-Germanic _*sturmaz_ meaning _noise, tumult_.
 
 ## Storm-related idioms
 
