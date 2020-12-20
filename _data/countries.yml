@@ -1,0 +1,12 @@
+- name: Akash
+  year: 1989
+  relation: Husband
+  
+- name: Swati
+  year: 1990
+  relation: Wife
+  
+- name: Rinku
+  year: 1993
+  relation: BIL
+  
