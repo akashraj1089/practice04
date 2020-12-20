@@ -1,7 +1,9 @@
 ---
 layout: template
+title: Everything you wanted to know about storms 
 ---
 
+# {{ page.title }}
 
 ## Storm-related idioms
 
@@ -16,3 +18,6 @@ layout: template
 
 -  [How to storm a castle](storm_task.md)
 -  [Severe storms in history](storm_reference.md)
+
+
+Repeat the variable {{ page.title }}
