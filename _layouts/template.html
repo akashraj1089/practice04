@@ -2,13 +2,15 @@
 <html lang="en">
 <head></head>
 	<body>
-	<header>
-	This website belongs to {{ site.name }}.
-	</header>
+	
 		<main>
 			<div>
 				{{ content }}
 			</div>
 		</main>
+		<footer>
+		{{ includes footer.md }}
+		</footer>
+		
 	</body>
 </html>
